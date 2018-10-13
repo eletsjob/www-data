@@ -217,7 +217,7 @@
                 <div class="header-top__wrapper">
                     <ul class="nav-area">
                         <li>
-                            <a href="http://edu.eletsjob.ru">Учебный центр</a>
+                            <a href="http://178.234.14.96">Учебный центр</a>
                         </li>
                     </ul>
                 </div>
@@ -225,13 +225,13 @@
             <div class="column small-12 medium-5 show-for-medium">
                 <ul class="header-top__nav">
                     <li style="display: none;"><a href="#">Интернет-магазин</a></li>
-                    <li><a href="http://edu.eletsjob.ru">Учебный центр</a></li>
+                    <li><a href="http://178.234.14.96">Учебный центр</a></li>
                 </ul>
             </div>
             <div class="column small-6 medium-offset-3 medium-4 text-right">
                 <div class="authorization">
                     <div class="authorization__log-in">
-                        <a href="http://online.eletsjob.ru/register">
+                        <a href="http://178.234.14.96/register">
                             <svg class="icon user">
                                 <use xlink:href="#images--svg--user"></use>
                             </svg>
@@ -239,7 +239,7 @@
                         </a>
                     </div>
                     <div class="authorization__log-in user-name">
-                        <a href="http://online.eletsjob.ru/login"><span>Войти</span></a>
+                        <a href="http://178.234.14.96/login"><span>Войти</span></a>
                     </div>
                 </div>
             </div>
@@ -250,7 +250,7 @@
         <div class="column small-6 medium-8 large-6">
 
                        <div class="header__logos">
-                <a href="http://edu.eletsjob.ru" class="header__logo">
+                <a href="http://178.234.14.96" class="header__logo">
 <svg class="icon logo">
                         <use xlink:href="#images--svg--eletsjob-logo"></use>
                     </svg>
@@ -438,7 +438,7 @@
                 </div>
 
                 <div style="padding-top: 60px">
-                    <a href="http://online.eletsjob.ru/" class="button small" >Посмотреть все курсы</a>
+                    <a href="http://178.234.14.96/" class="button small" >Посмотреть все курсы</a>
                 </div>
             </div>
 

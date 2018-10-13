@@ -69,7 +69,7 @@
                 <div class="header-top__wrapper">
                     <ul class="nav-area">
                         <li>
-                            <a href="http://edu.eletsjob.ru">Учебный центр</a>
+                            <a href="http://178.234.14.96">Учебный центр</a>
                         </li>
                     </ul>
                 </div>
@@ -77,13 +77,13 @@
             <div class="column small-12 medium-5 show-for-medium">
                 <ul class="header-top__nav">
                     <li style="display: none;"><a href="#">Интернет-магазин</a></li>
-                    <li><a href="http://edu.eletsjob.ru">Учебный центр</a></li>
+                    <li><a href="http://178.234.14.96">Учебный центр</a></li>
                 </ul>
             </div>
             <div class="column small-6 medium-offset-3 medium-4 text-right">
                 <div class="authorization">
                     <div class="authorization__log-in">
-                        <a href="http://online.eletsjob.ru/register">
+                        <a href="http://178.234.14.96/register">
                             <svg class="icon user">
                                 <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#images--svg--user"></use>
                             </svg>
@@ -91,7 +91,7 @@
                         </a>
                     </div>
                     <div class="authorization__log-in user-name">
-                        <a href="http://online.eletsjob.ru/login"><span>Войти</span></a>
+                        <a href="http://178.234.14.96/login"><span>Войти</span></a>
                     </div>
                 </div>
             </div>
@@ -102,7 +102,7 @@
         <div class="column small-6 medium-8 large-6">
 
                        <div class="header__logos">
-                <a href="http://edu.eletsjob.ru" class="header__logo">
+                <a href="http://178.234.14.96" class="header__logo">
 <svg class="icon logo">
                         <use xlink:href="#images--svg--eletsjob-logo"></use>
                     </svg>
@@ -162,7 +162,7 @@
     <section style="padding-top: 3rem">
         <div class="row">
             <div class="column small-12">
-                <a style="display: block; padding-bottom: 2rem" href="http://edu.eletsjob.ru/special-offers">
+                <a style="display: block; padding-bottom: 2rem" href="http://178.234.14.96/special-offers">
                     <img src="dist/images/banner-microsoft.png" alt="">
                 </a>
             </div>
@@ -279,26 +279,26 @@
                                                 Рекомендовано
                                                 <li>Создание и работа с виртуальными машинами в Azure <br
                                                             class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">Microsoft
                                                         Azure Virtual Machines</a></li>
                                                 <li> Внедрение Azure Active Directory <br class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE204x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE204x+course/about">Microsoft
                                                         Azure Identity</a></li>
                                                 <li> Внедрение виртуальных сетей <br class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">Microsoft
                                                         Azure Virtual Networks</a></li>
                                                 Опционально
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE208x+course/about">Azure
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE208x+course/about">Azure
                                                         Security and Compliance</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE210x+course/about">Automating
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE210x+course/about">Automating
                                                         Azure Workloads </a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE212x+course/about">Migrating
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE212x+course/about">Migrating
                                                         Workloads to Azure</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE214x+course/about">Azure
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE214x+course/about">Azure
                                                         Fundamentals</a></li>
 
                                             </ol>
@@ -425,7 +425,7 @@
                                             <span class="old-price">12 900р</span>
                                             <span class="add-discount">скидка 70%</span>
                                             <p>
-                                                <a href="http://edu.eletsjob.ru/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-533-bazovyj" class="table-btn">купить</a>
+                                                <a href="http://178.234.14.96/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-533-bazovyj" class="table-btn">купить</a>
                                             </p>
 
                                         </td>
@@ -434,7 +434,7 @@
                                             <span class="old-price">31 900р</span>
                                             <span class="add-discount">скидка 70%</span>
                                             <p>
-                                                <a href="http://edu.eletsjob.ru/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-533-rasshirennyj" class="table-btn">купить</a>
+                                                <a href="http://178.234.14.96/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-533-rasshirennyj" class="table-btn">купить</a>
                                             </p>
                                         </td>
                                     </tr>
@@ -490,30 +490,30 @@
                                                 Рекомендовано
                                                 <li>Создание и работа с виртуальными машинами в Azure <br
                                                             class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">Microsoft
                                                         Azure Virtual Machines</a></li>
                                                 <li> Внедрение Azure Active Directory <br class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE204x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE204x+course/about">Microsoft
                                                         Azure Identity</a></li>
                                                 <li> Внедрение виртуальных сетей <br class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">Microsoft
                                                         Azure Virtual Networks</a></li>
                                                 <li>Разработка и реализация стратегии хранения данных</li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+DAT224x+course/about">
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+DAT224x+course/about">
                                                         Developing a Multidimensional Data Model</a></li>
                                                 Опционально
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE214x+course/about">Azure
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE214x+course/about">Azure
                                                         Fundamentals</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE205x+course/about">
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE205x+course/about">
                                                         Microsoft Azure Storage</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE206x+course/about">
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE206x+course/about">
                                                         Microsoft Azure App Service</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE207x+course/about">Databases
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE207x+course/about">Databases
                                                         in Azure</a></li>
                                             </ol>
 
@@ -639,7 +639,7 @@
                                             <span class="old-price">12 900р</span>
                                             <span class="add-discount">скидка 70%</span>
                                             <p>
-                                                <a href="http://edu.eletsjob.ru/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-532-bazovyj" class="table-btn">купить</a>
+                                                <a href="http://178.234.14.96/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-532-bazovyj" class="table-btn">купить</a>
                                             </p>
 
                                         </td>
@@ -648,7 +648,7 @@
                                             <span class="old-price">40 900р</span>
                                             <span class="add-discount">скидка 70%</span>
                                             <p>
-                                                <a href="http://edu.eletsjob.ru/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-532-rasshirennyj" class="table-btn">купить</a>
+                                                <a href="http://178.234.14.96/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-532-rasshirennyj" class="table-btn">купить</a>
                                             </p>
                                         </td>
                                     </tr>
@@ -705,35 +705,35 @@
                                                 Рекомендовано
                                                 <li>Создание и работа с виртуальными машинами в Azure <br
                                                             class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">Microsoft
                                                         Azure Virtual Machines</a></li>
                                                 <li> Внедрение Azure Active Directory <br class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE204x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE204x+course/about">Microsoft
                                                         Azure Identity</a></li>
                                                 <li> Внедрение виртуальных сетей <br class="show-for-large">
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">Microsoft
                                                         Azure Virtual Networks</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE205x+course/about">
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE205x+course/about">
                                                         Microsoft Azure Storage</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE206x+course/about">Microsoft
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE206x+course/about">Microsoft
                                                         Azure App Service</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE207x+course/about">Databases
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE207x+course/about">Databases
                                                         in Azure</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE210x+course/about">Automating
+                                                    <a href="https://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE210x+course/about">Automating
                                                         Azure Workloads</a></li>
                                                 Опционально
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE214x+course/about">Azure
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE214x+course/about">Azure
                                                         Fundamentals</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE209x+course/about">
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE209x+course/about">
                                                         Managing Azure Workloads</a></li>
                                                 <li>
-                                                    <a href="https://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE211x+course/about">
+                                                    <a href="https://178.234.14.96/courses/course-v1:Microsoft+AZURE211x+course/about">
                                                         Azure Application Deployment and Management</a></li>
                                             </ol>
 
@@ -880,7 +880,7 @@
                                             <span class="old-price">16 900р</span>
                                             <span class="add-discount">скидка 70%</span>
                                             <p>
-                                                <a href="http://edu.eletsjob.ru/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-535-bazovyj" class="table-btn">купить</a>
+                                                <a href="http://178.234.14.96/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-535-bazovyj" class="table-btn">купить</a>
                                             </p>
 
                                         </td>
@@ -889,7 +889,7 @@
                                             <span class="old-price">50 900р</span>
                                             <span class="add-discount">скидка 70%</span>
                                             <p>
-                                                <a href="http://edu.eletsjob.ru/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-535-rasshirennyj" class="table-btn">купить</a>
+                                                <a href="http://178.234.14.96/certification/podgotovka-k-sertifikatsii-microsoft-azure-ekzamen-70-535-rasshirennyj" class="table-btn">купить</a>
                                             </p>
                                         </td>
                                     </tr>
