@@ -231,7 +231,7 @@
             <div class="column small-6 medium-offset-3 medium-4 text-right">
                 <div class="authorization">
                     <div class="authorization__log-in">
-                        <a href="http://178.234.14.96/register">
+                        <a href="http://eletsjob.ru/register">
                             <svg class="icon user">
                                 <use xlink:href="#images--svg--user"></use>
                             </svg>
@@ -239,7 +239,7 @@
                         </a>
                     </div>
                     <div class="authorization__log-in user-name">
-                        <a href="http://178.234.14.96/login"><span>Войти</span></a>
+                        <a href="http://eletsjob.ru/login"><span>Войти</span></a>
                     </div>
                 </div>
             </div>
@@ -250,7 +250,7 @@
         <div class="column small-6 medium-8 large-6">
 
             <div class="header__logos">
-                <a href="http://178.234.14.96" class="header__logo">
+                <a href="http://eletsjob.ru" class="header__logo">
                     <svg class="icon logo">
                         <use xlink:href="#images--svg--eletsjob-logo"></use>
                     </svg>
@@ -398,48 +398,48 @@
             <div class="column small-12">
                 <div class="catalog-slider__carousel owl-carousel">
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV205Bx+course/about">
+                       href="http://eletsjob.ru/courses/course-v1:Microsoft+DEV205Bx+course/about">
                         <span class="b-card__image"><img src="content/courses/microsoft_azure_solutions.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Разработка архитектуры решений Microsoft Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE210x+course/about">
+                       href="http://eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE210x+course/about">
                         <span class="b-card__image"><img src="content/courses/Azure_Workloads.jpg" alt=""></span>
                         <span class="b-card__title">Автоматизация рабочей нагрузки Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE211x+course/about">
+                       href="http://eletsjob.ru/courses/course-v1:Microsoft+AZURE211x+course/about">
                         <span class="b-card__image"><img src="content/courses/Application_Deployment.jpg" alt=""></span>
                         <span class="b-card__title">Развёртывание и управление приложениями Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE208x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE208x+course/about">
                         <span class="b-card__image"><img src="content/courses/Security-Compliance.jpg" alt=""></span>
                         <span class="b-card__title">Безопасность и соответствие Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT229x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT229x+course/about">
                         <span class="b-card__image"><img src="content/courses/Big-Data.png" alt=""></span>
                         <span class="b-card__title">Основы работы с Big Data</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT203.1x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT203.1x+course/about">
                         <span class="b-card__image"><img src="content/courses/Data-Science.jpg" alt=""></span>
                         <span class="b-card__title">Основы Data Science</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE207x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE207x+course/about">
                         <span class="b-card__image"><img src="content/courses/Databases.jpg" alt=""></span>
                         <span class="b-card__title">Базы данных в Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV212x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV212x+course/about">
                         <span class="b-card__image"><img src="content/courses/Introduction-to-DevOps.jpg" alt=""></span>
                         <span class="b-card__title">Введение в DevOps</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE205x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE205x+course/about">
                         <span class="b-card__image"><img src="content/courses/Azure-Storage.jpg" alt=""></span>
                         <span class="b-card__title">Microsoft Azure Storage</span>
                     </a>
@@ -450,211 +450,211 @@
                     </div>
                     -->
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:35reRun+DAT207x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:35reRun+DAT207x+course/about">
                         <span class="b-card__image"><img src="content/courses/Visualizing-Data.jpg" alt=""></span>
                         <span class="b-card__title">Анализ и визуализация данных с помощью Power BI</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV221x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV221x+course/about">
                         <span class="b-card__image"><img src="content/courses/AngularJS.jpg" alt=""></span>
                         <span class="b-card__title">AngularJS: Методы расширенной инфраструктуры</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:35reRun+DAT206x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:35reRun+DAT206x+course/about">
                         <span class="b-card__image"><img src="content/courses/analyzing_and_visualizing.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Анализ и визуализация данных с помощью Excel</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT214x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT214x+course/about">
                         <span class="b-card__image"><img src="content/courses/Visualizing-Data-with-SQL.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Анализ и визуализация данных с помощью SQL Server</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT203.3x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT203.3x+course/about">
                         <span class="b-card__image"><img src="content/courses/applied_machine_learning.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Прикладное машинное обучение</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:15reRun+DEV279x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:15reRun+DEV279x+course/about">
                         <span class="b-card__image"><img src="content/courses/Prototypes-using-JavaScript.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Создание интерактивных прототипов с использованием JavaScript</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:35reRun+DAT101x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:35reRun+DAT101x+course/about">
                         <span class="b-card__image"><img src="content/courses/Pro-Data-Science.jpg" alt=""></span>
                         <span class="b-card__title">Microsoft Professional Orientation : Data Science</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT216x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT216x+course/about">
                         <span class="b-card__image"><img src="content/courses/Relational-Data.jpg" alt=""></span>
                         <span class="b-card__title">Предоставление хранилища реляционных данных</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT227x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT227x+course/about">
                         <span class="b-card__image"><img src="content/courses/Microsoft-Flow.jpg" alt=""></span>
                         <span class="b-card__title">Разработка бизнесс-приложений с PowerApps и Microsoft Flow</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV216x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV216x+course/about">
                         <span class="b-card__image"><img src="content/courses/Dynamic-web.jpg" alt=""></span>
                         <span class="b-card__title">Разработка приложений Dynamic Web с использованием Angular</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT211x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT211x+course/about">
                         <span class="b-card__image"><img src="content/courses/Intelligent-Apps.jpg" alt=""></span>
                         <span class="b-card__title">Разработка интеллектуальных приложений</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV225x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV225x+course/about">
                         <span class="b-card__image"><img src="content/courses/IoT.png" alt=""></span>
                         <span class="b-card__title">Разработка решений IoT с использованием Azure IoT</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT221x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT221x+course/about">
                         <span class="b-card__image"><img src="content/courses/NoSQL.jpg" alt=""></span>
                         <span class="b-card__title">Разработка NoSQL решений в Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT222x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT222x+course/about">
                         <span class="b-card__image"><img src="content/courses/Excel.jpg" alt=""></span>
                         <span class="b-card__title">Основные статистические данные для Data Analysis с использованием Excel</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT217x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT217x+course/about">
                         <span class="b-card__image"><img src="content/courses/ETL-with-SQL.jpg" alt=""></span>
                         <span class="b-card__title">Внедрение ETL с помощью служб интеграции SQL Server (SSIS)</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT202.3x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT202.3x+course/about">
                         <span class="b-card__image"><img src="content/courses/HDInsight.jpg" alt=""></span>
                         <span class="b-card__title">Внедрение Predictive Analytics при помощи Spark на Azure HDInsight</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT212x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT212x+course/about">
                         <span class="b-card__image"><img src="content/courses/Communicating-in-Business.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Interpreting and Communicating Data Insights in Business</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV210x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV210x+course/about">
                         <span class="b-card__image"><img src="content/courses/Introduction-to-C.jpg" alt=""></span>
                         <span class="b-card__title">Введение в C++</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT205x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT205x+course/about">
                         <span class="b-card__image"><img src="content/courses/Analysis-using-Excel.jpg" alt=""></span>
                         <span class="b-card__title">Введение в Data Analysis с использованием Excel</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV211.1x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV211.1x+course/about">
                         <span class="b-card__image"><img src="content/courses/html-js.jpg" alt=""></span>
                         <span class="b-card__title">Введение в HTML и JavaScript</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV208x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV208x+course/about">
                         <span class="b-card__image"><img src="content/courses/jquery.jpg" alt=""></span>
                         <span class="b-card__title">Введение в jQuery</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT208x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT208x+course/about">
                         <span class="b-card__image"><img src="content/courses/Python-for-Data.jpg" alt=""></span>
                         <span class="b-card__title">Введение в Python для Data Science</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT204x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT204x+course/about">
                         <span class="b-card__image"><img src="content/courses/Introduction-to-R.jpg" alt=""></span>
                         <span class="b-card__title">Введение в R для Data Science</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DEV215x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DEV215x+course/about">
                         <span class="b-card__image"><img src="content/courses/Introduction-to-Xamarin.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Введение в Xamarin.Forms</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE209x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE209x+course/about">
                         <span class="b-card__image"><img src="content/courses/Managing-Azure-Workloads.png"
                                                          alt=""></span>
                         <span class="b-card__title">Управление рабочими нагрузками Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE206x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE206x+course/about">
                         <span class="b-card__image"><img src="content/courses/Azure-App-Service.jpg" alt=""></span>
                         <span class="b-card__title">Служба поддержки приложений Microsoft Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE213x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE213x+course/about">
                         <span class="b-card__image"><img src="content/courses/AWS-App.png" alt=""></span>
                         <span class="b-card__title">Microsoft Azure для экспертов AWS</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE214x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE214x+course/about">
                         <span class="b-card__image"><img src="content/courses/Azure-Fundamentals.png" alt=""></span>
                         <span class="b-card__title">Основы Microsoft Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE204x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE204x+course/about">
                         <span class="b-card__image"><img src="content/courses/Azure-Identity.jpg" alt=""></span>
                         <span class="b-card__title">Microsoft Azure Identity</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE202x+course/about">
                         <span class="b-card__image"><img src="content/courses/Virtual-Machines.jpg" alt=""></span>
                         <span class="b-card__title">Виртуальные машины Microsoft Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+AZURE203x+course/about">
                         <span class="b-card__image"><img src="content/courses/Virtual-Networks.jpg" alt=""></span>
                         <span class="b-card__title">Виртуальные сети Microsoft Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+CLD216x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+CLD216x+course/about">
                         <span class="b-card__image"><img src="content/courses/SharePoint.jpg" alt=""></span>
                         <span class="b-card__title">Microsoft SharePoint Online для администраторов сайта</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+AZURE212x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+AZURE212x+course/about">
                         <span class="b-card__image"><img src="content/courses/Workloads-to-Azure.jpg" alt=""></span>
                         <span class="b-card__title">Перенос рабочих нагрузок в Azure</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT203.2x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT203.2x+course/about">
                         <span class="b-card__image"><img src="content/courses/Principles-of-Machine-Learning.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Принципы машинного обучения</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:MIcrosoft+DEV204x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:MIcrosoft+DEV204x+course/about">
                         <span class="b-card__image"><img src="content/courses/programming-c-s.jpg" alt=""></span>
                         <span class="b-card__title">Программирование на C#</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT210x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT210x+course/about">
                         <span class="b-card__image"><img src="content/courses/Programming-Python.jpg" alt=""></span>
                         <span class="b-card__title">Программирование на Python для Data Science</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+DAT209x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+DAT209x+course/about">
                         <span class="b-card__image"><img src="content/courses/Programming-R.jpg" alt=""></span>
                         <span class="b-card__title">Программирование на R для Data Science</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:PartnerFY18Q2+DAT201x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:PartnerFY18Q2+DAT201x+course/about">
                         <span class="b-card__image"><img src="content/courses/Transact-SQL.jpg" alt=""></span>
                         <span class="b-card__title">Создание запросов данных при помощи Transact-SQL</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+CLD224x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+CLD224x+course/about">
                         <span class="b-card__image"><img src="content/courses/Understanding-Collaborators.jpg"
                                                          alt=""></span>
                         <span class="b-card__title">Понимание сотрудников / Работа с персоналом / Взаимодействие с сотрудниками</span>
                     </a>
                     <a class="b-card"
-                       href="http://178.234.14.96/courses/course-v1:Microsoft+CLD234x+course/about">
+                       href="http://online.eletsjob.ru/courses/course-v1:Microsoft+CLD234x+course/about">
                         <span class="b-card__image"><img src="content/courses/Skype-for-Business.jpg" alt=""></span>
                         <span class="b-card__title">Skype для бизнеса: Voice Hybrid и маршрутизация</span>
                     </a>
@@ -663,7 +663,7 @@
                 <div class="row">
                     <div class="column small-6">
                         <div class="catalog-slider__view">
-                            <a href="http://178.234.14.96/courses" class="button small">Посмотреть
+                            <a href="http://eletsjob.ru/courses" class="button small">Посмотреть
                                 все</a>
                         </div>
                     </div>
@@ -694,36 +694,36 @@
             <div class="column small-12">
                 <div class="catalog-slider__carousel owl-carousel">
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20532" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20532" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20532">Архитектура
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20532">Архитектура
                             решений Microsoft Azure</a>
                         <span class="b-card__description">
                             Длительность: 4 дня
                             <br>
                            Экзамен: <a
-                                href="http://178.234.14.96/certification/developing-microsoft-azure-applications">70-532</a>
+                                href="http://eletsjob.ru/certification/developing-microsoft-azure-applications">70-532</a>
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-40441" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-40441" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-40441">Разработка
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-40441">Разработка
                             и применение решений Cloud Data Platform</a>
                         <span class="b-card__description">
                             Длительность: 3 дня
                             <br>
                            Экзамен: <a
-                                href="http://178.234.14.96/certification/design-and-implement-cloud-data-platform-solutions-beta">70-473</a>
+                                href="http://eletsjob.ru/certification/design-and-implement-cloud-data-platform-solutions-beta">70-473</a>
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20537" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20537" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20537">Настройка
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20537">Настройка
                             и управление гибридным облаком с помощью Microsoft Azure Stack</a>
                         <span class="b-card__description">
                             Длительность: 5 дней
@@ -732,10 +732,10 @@
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20775" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20775" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20775">Проектирование
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20775">Проектирование
                             данных на Microsoft HD Insight</a>
                         <span class="b-card__description">
                             Длительность: 5 дней
@@ -744,23 +744,23 @@
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20533" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20533" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20533">Применение
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20533">Применение
                             инфраструктурных решений Microsoft Azure</a>
                         <span class="b-card__description">
                             Длительность: 5 дней
                             <br>
                            Экзамен: <a
-                                href="http://178.234.14.96/certification/implementing-microsoft-azure-infrastructure-solutions">70-533</a>
+                                href="http://eletsjob.ru/certification/implementing-microsoft-azure-infrastructure-solutions">70-533</a>
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20774" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20774" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20774">Выполнение
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20774">Выполнение
                             научных расчетов над облачными данными при помощи машинного обучения Azure</a>
                         <span class="b-card__description">
                             Длительность: 5 дней
@@ -769,31 +769,31 @@
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20347" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20347" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20347">Подключение
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20347">Подключение
                             и управление Office 365</a>
                         <span class="b-card__description">
                             Длительность: 5 дней
                             <br>
                            Экзамен:
-                            <a href="http://178.234.14.96/certification/managing-office-365-identities-and-requirements">70-346</a>
+                            <a href="http://eletsjob.ru/certification/managing-office-365-identities-and-requirements">70-346</a>
                             &
-                            <a href="http://178.234.14.96/certification/enabling-office-365-services">70-347</a>
+                            <a href="http://eletsjob.ru/certification/enabling-office-365-services">70-347</a>
                         </span>
                     </div>
                     <div class="b-card">
-                        <a href="http://178.234.14.96/vendors/microsoft/course-20487" class="b-card__image">
+                        <a href="http://eletsjob.ru/vendors/microsoft/course-20487" class="b-card__image">
                             <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                         </a>
-                        <a class="b-card__title" href="http://178.234.14.96/vendors/microsoft/course-20487">Разработка
+                        <a class="b-card__title" href="http://eletsjob.ru/vendors/microsoft/course-20487">Разработка
                             служб Windows Azure и веб-служб</a>
                         <span class="b-card__description">
                             Длительность: 5 дней
                             <br>
                            Экзамен: <a
-                                href="http://178.234.14.96/certification/developing-windows-azure-and-web-services">70-487</a>
+                                href="http://eletsjob.ru/certification/developing-windows-azure-and-web-services">70-487</a>
                         </span>
                     </div>
                 </div>
@@ -802,7 +802,7 @@
                 <div class="row">
                     <div class="column small-6">
                         <div class="catalog-slider__view">
-                            <a href="http://178.234.14.96/vendors/microsoft" class="button small">Посмотреть все</a>
+                            <a href="http://eletsjob.ru/vendors/microsoft" class="button small">Посмотреть все</a>
                         </div>
                     </div>
                     <div class="column small-6">
@@ -832,56 +832,56 @@
         <div class="partners__card-wrapper row small-up-1 medium-up-3 large-up-4">
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/microsoft" class="b-card">
+                    <a href="http://eletsjob.ru/vendors/microsoft" class="b-card">
                         <img src="dist/images/partners/partners__card/microsoft.png" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/cisco-systems" class="b-card">
+                    <a href="http://eletsjob.ru/vendors/cisco-systems" class="b-card">
                         <img src="content/partners/cisco.png" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/citrix" class="b-card">
+                    <a href="http://edu.eletsjob.ru/vendors/citrix" class="b-card">
                         <img src="content/partners/citrix.jpg" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/veeam-vmce" class="b-card">
+                    <a href="http://edu.eletsjob.ru/vendors/veeam-vmce" class="b-card">
                         <img src="content/partners/veeam.png" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/vmware" class="b-card">
+                    <a href="http://edu.eletsjob.ru/vendors/vmware" class="b-card">
                         <img src="content/partners/vmware.png" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/kaspersky" class="b-card">
+                    <a href="http://edu.eletsjob.ru/vendors/kaspersky" class="b-card">
                         <img src="content/partners/kaspersky.jpg" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/oracle" class="b-card">
+                    <a href="http://edu.eletsjob.ru/vendors/oracle" class="b-card">
                         <img src="content/partners/oracle.png" alt="">
                     </a>
                 </div>
             </div>
             <div class="column">
                 <div class="flex-container">
-                    <a href="http://178.234.14.96/vendors/veritas" class="b-card">
+                    <a href="http://edu.eletsjob.ru/vendors/veritas" class="b-card">
                         <img src="content/partners/veritas.jpg" alt="">
                     </a>
                 </div>
